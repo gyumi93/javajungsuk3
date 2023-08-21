@@ -7,5 +7,5 @@ public class Ex_01 {
 			int s=i-1;
 			System.out.printf("%d %d\n", i,s);
 		}
-		}
+	}
 }
