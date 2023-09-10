@@ -36,7 +36,7 @@ class ThreadEx10 implements Runnable { // 이 클래스에 run()클래스가 작
 		}
 	}
 	
-//	public void autoSave() {
+	public void autoSave() {
 		System.out.println("작업파일이 자동저장되었습니다.");
 	}
 }
