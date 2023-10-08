@@ -5,7 +5,7 @@ public class Chapter2_Q5 {
 		char ch = '\uAE00';
 		System.out.println();
 		System.out.println();
-		char ch = 'a';
+//		char ch = 'a';
 //		System.out.println("A");
 	}
 }
